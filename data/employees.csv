@@ -1,0 +1,41 @@
+employee_id,department_id,first_name,last_name,job_title,hire_date,employment_status,work_location
+1,1,Liam,Chen,Senior Software Engineer,2021-02-15,active,hybrid
+2,1,Priya,Sharma,Software Engineer,2021-08-01,active,remote
+3,1,Marcus,Webb,Staff Engineer,2020-05-10,active,office
+4,1,Sofia,Kim,Junior Developer,2023-03-20,active,hybrid
+5,1,Noah,Okafor,DevOps Engineer,2022-01-12,active,remote
+6,1,Ava,Petrov,QA Lead,2021-06-18,active,office
+7,1,Ethan,Nakamura,Data Engineer,2023-07-05,active,hybrid
+8,1,Zara,Lindqvist,Frontend Developer,2024-01-15,active,remote
+9,2,Oliver,Reyes,Senior Product Manager,2020-11-02,active,hybrid
+10,2,Mia,Andersen,Product Manager,2022-04-11,active,office
+11,2,Lucas,Diaz,Product Analyst,2023-01-30,active,remote
+12,2,Chloe,Murray,UX Designer,2022-09-15,active,hybrid
+13,2,Daniel,Osei,UX Researcher,2023-11-01,active,office
+14,3,Emma,Sullivan,VP of Sales,2020-03-15,active,office
+15,3,Jack,Moreau,Senior Account Executive,2021-01-20,active,hybrid
+16,3,Amara,Jackson,Account Executive,2022-06-08,active,office
+17,3,Ryan,Kowalski,Account Executive,2023-02-14,terminated,hybrid
+18,3,Isabella,Cruz,Sales Development Rep,2023-08-22,active,office
+19,3,Connor,Singh,Sales Development Rep,2024-02-01,active,office
+20,3,Lily,Tanaka,Sales Operations Analyst,2022-11-10,active,remote
+21,4,Hannah,Fischer,Marketing Director,2020-09-01,active,hybrid
+22,4,Ben,Adeyemi,Content Marketing Manager,2022-03-15,active,remote
+23,4,Nora,Vasquez,Digital Marketing Specialist,2023-05-20,active,hybrid
+24,4,Aiden,Murphy,Brand Designer,2024-04-01,active,office
+25,5,Grace,Patel,CS Team Lead,2021-04-12,active,hybrid
+26,5,Sam,O'Brien,Customer Success Manager,2022-01-25,active,remote
+27,5,Maya,Johansson,Customer Success Manager,2023-03-08,active,office
+28,5,Leo,Fernandez,Support Specialist,2023-09-15,active,hybrid
+29,5,Ruby,Chang,Support Specialist,2024-06-01,on_leave,remote
+30,6,Alice,Thompson,HR Director,2020-07-20,active,office
+31,6,James,Mbeki,HR Business Partner,2022-05-30,active,hybrid
+32,6,Ella,Nguyen,Recruiting Coordinator,2024-01-08,active,office
+33,7,Henry,Muller,Finance Director,2020-04-15,active,office
+34,7,Layla,Robinson,Senior Accountant,2021-10-01,active,hybrid
+35,7,Owen,Gupta,Financial Analyst,2023-06-12,active,remote
+36,7,Iris,Kowalczyk,Accounts Payable Specialist,2024-03-18,active,office
+37,8,Nathan,Park,Operations Manager,2021-03-10,active,hybrid
+38,8,Freya,Abbas,IT Systems Administrator,2022-08-22,active,office
+39,8,Caleb,Santos,Facilities Coordinator,2023-04-15,active,office
+40,8,Tessa,Barrett,Office Manager,2024-05-20,active,office

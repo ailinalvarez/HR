@@ -1,0 +1,19 @@
+question_id,category,question_text,is_active
+1,Compensation & Benefits,How fairly do you feel you are paid relative to your contribution at the company?,true
+2,Compensation & Benefits,How satisfied are you with the benefits package offered to you?,true
+3,Compensation & Benefits,How well does your compensation reflect your level of experience and skills?,true
+4,Management & Leadership,How effectively does your direct manager communicate expectations and priorities?,true
+5,Management & Leadership,How supported do you feel by your manager in your professional development?,true
+6,Management & Leadership,How comfortable are you raising concerns or disagreements with your manager?,true
+7,Colleagues & Collaboration,How well does your team collaborate to achieve shared goals?,true
+8,Colleagues & Collaboration,How valued and respected do you feel by your immediate colleagues?,true
+9,Colleagues & Collaboration,How fairly is workload distributed within your team?,true
+10,Work Environment & Culture,How would you rate the overall day-to-day atmosphere at work?,true
+11,Work Environment & Culture,How well does the company promote diversity and inclusion?,true
+12,Work Environment & Culture,How effectively does the company support your mental health and wellbeing?,true
+13,Career Growth & Development,How confident are you in your opportunities for career progression here?,true
+14,Career Growth & Development,How satisfied are you with the learning and development resources available?,true
+15,Career Growth & Development,How clearly has your potential career path been communicated to you?,true
+16,Work-Life Balance,How well does the company respect your personal time and boundaries?,true
+17,Work-Life Balance,How manageable is your current workload on a day-to-day basis?,true
+18,Work-Life Balance,How supported do you feel in working flexibly when you need to?,true

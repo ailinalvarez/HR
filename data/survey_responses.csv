@@ -1,0 +1,41 @@
+response_id,survey_id,employee_id,would_recommend,submitted_at,comment
+1,1,1,true,2023-03-05,Great engineering culture and solid team dynamics
+2,1,3,true,2023-03-07,Been here a while and things are generally good but pay could keep up more with market
+3,1,5,true,2023-03-06,Love the flexibility of remote work here
+4,1,9,true,2023-03-08,Product team is well run but we need clearer long-term roadmap
+5,1,10,false,2023-03-10,Feeling stuck in my role with limited growth paths
+6,1,14,true,2023-03-04,Targets are aggressive but compensation is fair
+7,1,15,false,2023-03-09,The pace is relentless and management could be more supportive
+8,1,21,true,2023-03-11,Wonderful colleagues but marketing budget feels tight which affects morale
+9,1,25,false,2023-03-06,Customer success feels like an afterthought sometimes
+10,1,30,true,2023-03-08,Proud of the culture we are building
+11,1,33,true,2023-03-12,Stable environment but not much room to grow in finance
+12,1,37,false,2023-03-10,Operations often gets overlooked in company priorities
+13,2,2,true,2023-09-06,Remote setup works really well for me
+14,2,6,true,2023-09-05,Good team but the office can feel a bit flat some days
+15,2,11,true,2023-09-07,Enjoying the product work and learning a lot
+16,2,16,false,2023-09-05,Sales pressure is intense and I do not feel supported
+17,2,22,true,2023-09-08,Love the creative freedom and remote flexibility
+18,2,26,false,2023-09-06,Workload is unsustainable and career path is unclear
+19,2,31,true,2023-09-07,HR is a good place to be but we are stretched thin
+20,2,34,false,2023-09-09,Things are fine but there is not much excitement
+21,3,1,true,2024-03-06,Things have really improved since last year across the board
+22,3,4,true,2024-03-08,Joined recently and feel welcomed and supported
+23,3,7,true,2024-03-07,Good onboarding and interesting projects
+24,3,9,true,2024-03-10,Leadership has stepped up communication significantly
+25,3,12,true,2024-03-09,Design team is great but compensation could be better
+26,3,14,true,2024-03-05,Seeing real improvements in how sales is managed
+27,3,18,false,2024-03-11,SDR role feels like a dead end with very long hours
+28,3,23,true,2024-03-12,Marketing team is collaborative and management is supportive
+29,3,27,false,2024-03-08,CS workload is too high and burnout is real
+30,3,32,true,2024-03-14,New to the team but HR feels like a caring department
+31,3,35,false,2024-03-10,Working remotely in finance can feel isolating
+32,3,38,false,2024-03-13,IT work is fine but the role feels undervalued
+33,4,3,true,2024-09-04,Engineering continues to be a great place to work
+34,4,5,true,2024-09-05,Really appreciate the remote flexibility and team trust
+35,4,10,false,2024-09-06,Still feeling limited in career growth opportunities
+36,4,15,false,2024-09-04,Not much has changed for sales on the work-life front
+37,4,20,false,2024-09-08,Sales ops is overlooked and the hours are creeping up
+38,4,25,true,2024-09-05,Things are improving in CS especially with new management
+39,4,33,true,2024-09-07,Finance team is steady and reliable
+40,4,37,true,2024-09-06,Feeling more included in company decisions lately
