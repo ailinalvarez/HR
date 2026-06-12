@@ -1,0 +1,11 @@
+{
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "SQLite local",
+      "database": "${workspaceFolder:HR}/data/people_analytics.db"
+    }
+  ]
+}
